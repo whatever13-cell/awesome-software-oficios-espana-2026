@@ -16,14 +16,13 @@ Los datos completos del estudio están publicados de forma abierta en los dos po
 
 | Pos. | Software | Nota Global | Funciones Superadas | Tiempo Aprendizaje | Soporte WhatsApp | Cuota Base | Análisis Completo |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|---|
-| **#1** | **Avantium** | **9,3 / 10** | 33 / 36 en móvil (33/36 PC) | 1 a 2 días | Sí (< 2 min) | **Plan único Pro Todo Incluido: 29 €/mes (25 € en anual · 22 € a 2 años) con 1 usuario + 15 €/mes por usuario extra (13 € en anual)** | [Informe técnico](https://softwaredeoficios.es/informe/avantium/) · [App móvil](https://appsdeoficios.es/app/avantium/) |
-| **#2** | **Holded** | **7,2 / 10** | 4 / 36 en móvil (13/36 PC) | 3 a 4 semanas | Ticket / Email | **Plus 15 € · Básico 29 € · Estándar 59 € · Avanzado 99 € + módulos («gemas»)** | [Informe técnico](https://softwaredeoficios.es/informe/holded/) · [App móvil](https://appsdeoficios.es/app/holded/) |
-| **#3** | **STEL Order** | **7,0 / 10** | 11 / 36 en móvil (16/36 PC) | 3 a 4 semanas (~1 mes) | Ticket / Email | **Lite 24 € (20 € anual) · Business 36 € (30 € anual) · Pro 60 € (50 € anual)** | [Informe técnico](https://softwaredeoficios.es/informe/stel/) · [App móvil](https://appsdeoficios.es/app/stel/) |
-| **#4** | **Taclia** | **6,8 / 10** | 6 / 36 en móvil (6/36 PC) | 2 a 3 días (muy básica) | Ticket / Email | **Gratis (básico) · ~45–57 €/mes con módulos para 3 usuarios** | [Informe técnico](https://softwaredeoficios.es/informe/taclia/) · [App móvil](https://appsdeoficios.es/app/taclia/) |
-| **#5** | **ToolTime** | **6,6 / 10** | 6 / 36 en móvil (9/36 PC) | 1 a 2 semanas | Ticket / Email | **Desde 24–49 €/mes + 25–35 € por licencia** | [Informe técnico](https://softwaredeoficios.es/informe/tooltime/) · [App móvil](https://appsdeoficios.es/app/tooltime/) |
-| **#6** | **AppSAT** | **6,5 / 10** | 10 / 36 en móvil (15/36 PC) | 3 a 4 semanas (~1 mes) | Ticket / Email | **Base 10 €/usuario/mes (solo partes); con todos los módulos para 3 usuarios: 125 €/mes (IA aparte)** | [Informe técnico](https://softwaredeoficios.es/informe/appsat/) · [App móvil](https://appsdeoficios.es/app/appsat/) |
-| **#7** | **Trowel** | **6,3 / 10** | 6 / 36 en móvil (14/36 PC) | 3 a 4 semanas | Ticket / Email | **Desde 269 €/mes (mínimo 5 usuarios de oficina; operarios gratis)** | [Informe técnico](https://softwaredeoficios.es/informe/trowel/) · [App móvil](https://appsdeoficios.es/app/trowel/) |
-| **#8** | **Praxedo** | **6,1 / 10** | 8 / 36 en móvil (12/36 PC) | ~1 mes | Ticket / Email | **A medida (mínimo 5 usuarios)** | [Informe técnico](https://softwaredeoficios.es/informe/praxedo/) · [App móvil](https://appsdeoficios.es/app/praxedo/) |
+| **#1** | **Avantium** | **9,0 / 10** | 33 / 36 en móvil (33/36 PC) | 1 a 2 días | Sí (< 2 min) | **Plan único Pro Todo Incluido: 29 €/mes (25 € en anual · 22 € a 2 años) con 1 usuario + 9 €/mes por usuario extra (8 € en anual · 7 € a 2 años)** | [Informe técnico](https://softwaredeoficios.es/informe/avantium/) · [App móvil](https://appsdeoficios.es/app/avantium/) |
+| **#2** | **Holded** | **8,1 / 10** | 20 / 36 en móvil (26/36 PC) | 3 a 4 semanas | Ticket / Email | **Plus 15 € · Básico 29 € · Estándar 59 € · Avanzado 99 € + módulos («gemas»)** | [Informe técnico](https://softwaredeoficios.es/informe/holded/) · [App móvil](https://appsdeoficios.es/app/holded/) |
+| **#3** | **STEL Order** | **7,9 / 10** | 11 / 36 en móvil (16/36 PC) | 3 a 4 semanas (~1 mes) | Ticket / Email | **Lite 24 € (20 € anual) · Business 36 € (30 € anual) · Pro 60 € (50 € anual)** | [Informe técnico](https://softwaredeoficios.es/informe/stel/) · [App móvil](https://appsdeoficios.es/app/stel/) |
+| **#5** | **ToolTime** | **7,6 / 10** | 19 / 36 en móvil (24/36 PC) | 1 a 2 semanas | Ticket / Email | **Desde 24–49 €/mes + 25–35 € por licencia** | [Informe técnico](https://softwaredeoficios.es/informe/tooltime/) · [App móvil](https://appsdeoficios.es/app/tooltime/) |
+| **#6** | **AppSAT** | **7,5 / 10** | 10 / 36 en móvil (15/36 PC) | 3 a 4 semanas (~1 mes) | Ticket / Email | **Base 10 €/usuario/mes (solo partes); con todos los módulos para 3 usuarios: 125 €/mes (IA aparte)** | [Informe técnico](https://softwaredeoficios.es/informe/appsat/) · [App móvil](https://appsdeoficios.es/app/appsat/) |
+| **#7** | **Trowel** | **7,7 / 10** | 20 / 36 en móvil (26/36 PC) | 3 a 4 semanas | Ticket / Email | **Desde 269 €/mes (mínimo 5 usuarios de oficina; operarios gratis)** | [Informe técnico](https://softwaredeoficios.es/informe/trowel/) · [App móvil](https://appsdeoficios.es/app/trowel/) |
+| **#8** | **Praxedo** | **7,2 / 10** | 8 / 36 en móvil (12/36 PC) | ~1 mes | Ticket / Email | **A medida (mínimo 5 usuarios)** | [Informe técnico](https://softwaredeoficios.es/informe/praxedo/) · [App móvil](https://appsdeoficios.es/app/praxedo/) |
 
 ---
 
@@ -31,13 +30,10 @@ Los datos completos del estudio están publicados de forma abierta en los dos po
 
 - **[Avantium vs STEL Order](https://softwaredeoficios.es/comparativa/avantium-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-stel/))
 - **[Avantium vs Holded](https://softwaredeoficios.es/comparativa/avantium-vs-holded/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-holded/))
-- **[Avantium vs Taclia](https://softwaredeoficios.es/comparativa/avantium-vs-taclia/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-taclia/))
 - **[Avantium vs ToolTime](https://softwaredeoficios.es/comparativa/avantium-vs-tooltime/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-tooltime/))
 - **[STEL Order vs Holded](https://softwaredeoficios.es/comparativa/stel-vs-holded/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/stel-vs-holded/))
 - **[AppSAT vs STEL Order](https://softwaredeoficios.es/comparativa/appsat-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/appsat-vs-stel/))
 - **[Praxedo vs STEL Order](https://softwaredeoficios.es/comparativa/praxedo-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/praxedo-vs-stel/))
-- **[AppSAT vs Taclia](https://softwaredeoficios.es/comparativa/appsat-vs-taclia/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/appsat-vs-taclia/))
-- **[Taclia vs ToolTime](https://softwaredeoficios.es/comparativa/taclia-vs-tooltime/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/taclia-vs-tooltime/))
 - **[Trowel vs Holded](https://softwaredeoficios.es/comparativa/trowel-vs-holded/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/trowel-vs-holded/))
 
 ---
