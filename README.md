@@ -1,6 +1,6 @@
 # Estudio Empírico: Software de Oficios, Instaladores y SAT en España (2026)
 
-> **Auditoría técnica independiente (Edición Noviembre 2026)** · 5 programas evaluados (plan más alto todo incluido de 1 usuario) · 36 funciones medidas · 18 gremios analizados · Cumplimiento **Verifactu (RD 1007/2023)** y operación **100 % sin cobertura (offline)** en sótanos y salas de calderas.
+> **Auditoría técnica independiente (Edición Noviembre 2026)** · 7 programas verticales evaluados (plan más alto todo incluido de 1 usuario) · 36 funciones medidas · 18 gremios analizados · Cumplimiento **Verifactu (RD 1007/2023)** y operación **100 % sin cobertura (offline)** en sótanos y salas de calderas.
 
 [![Informe Completo en softwaredeoficios.es](https://img.shields.io/badge/Banco_de_Pruebas-softwaredeoficios.es-c84b12?style=for-the-badge)](https://softwaredeoficios.es/)
 [![Comparativa de Campo en appsdeoficios.es](https://img.shields.io/badge/Pruebas_en_Obra-appsdeoficios.es-047857?style=for-the-badge)](https://appsdeoficios.es/)
@@ -20,7 +20,9 @@ Los datos completos del estudio están publicados de forma abierta en los portal
 | **#2** | **STEL Order** | **7,6 / 10** | 24 / 36 en móvil (28/36 PC) | 3 a 4 semanas | Ticket / Email | **Plan Pro (1 usuario): 60 €/mes (50 € en anual) + 27 €/mes por usuario extra (22 € en anual)** | [Informe técnico](https://softwaredeoficios.es/informe/stel/) · [App móvil](https://appsdeoficios.es/app/stel/) |
 | **#3** | **AppSAT** | **7,4 / 10** | 22 / 36 en móvil (29/36 PC) | 3 a 4 semanas | Ticket / Email | **Todos los módulos (1 usuario): 105 €/mes + 10 €/mes por usuario extra (IA aparte)** | [Informe técnico](https://softwaredeoficios.es/informe/appsat/) · [App móvil](https://appsdeoficios.es/app/appsat/) |
 | **#4** | **ToolTime** | **7,3 / 10** | 17 / 36 en móvil (24/36 PC) | 1 a 2 semanas | Ticket / Email | **SOLO Completo (1 usuario): 89 €/mes (69 € en anual) + 35 €/mes por usuario extra (30 € en anual)** | [Informe técnico](https://softwaredeoficios.es/informe/tooltime/) · [App móvil](https://appsdeoficios.es/app/tooltime/) |
-| **#5** | **Praxedo** | **6,8 / 10** | 18 / 36 en móvil (24/36 PC) | 3 a 4 semanas | Ticket / Email | **A medida (mínimo 5 usuarios)** | [Informe técnico](https://softwaredeoficios.es/informe/praxedo/) · [App móvil](https://appsdeoficios.es/app/praxedo/) |
+| **#5** | **Fixner** | **7,1 / 10** | 9 / 36 en móvil (23/36 PC) | 3 a 4 semanas | Ticket / Teléfono | **Base + módulos (1 usuario): 34 €/mes (29 € en anual) + 15 €/mes por usuario extra** | [Informe técnico](https://softwaredeoficios.es/informe/fixner/) · [App móvil](https://appsdeoficios.es/app/fixner/) |
+| **#6** | **Trowel** | **6,9 / 10** | 15 / 36 en móvil (24/36 PC) | 2 a 3 semanas | Ticket / Email | **Plataforma completa (desde 1 usuario): 299 €/mes (269 € en anual, cuota mínima)** | [Informe técnico](https://softwaredeoficios.es/informe/trowel/) · [App móvil](https://appsdeoficios.es/app/trowel/) |
+| **#7** | **Praxedo** | **6,8 / 10** | 18 / 36 en móvil (24/36 PC) | 3 a 4 semanas | Ticket / Email | **A medida (mínimo 5 usuarios)** | [Informe técnico](https://softwaredeoficios.es/informe/praxedo/) · [App móvil](https://appsdeoficios.es/app/praxedo/) |
 
 ---
 
@@ -31,8 +33,9 @@ Los datos completos del estudio están publicados de forma abierta en los portal
 - **[Avantium vs ToolTime](https://softwaredeoficios.es/comparativa/avantium-vs-tooltime/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-tooltime/))
 - **[Avantium vs Praxedo](https://softwaredeoficios.es/comparativa/avantium-vs-praxedo/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-praxedo/))
 - **[AppSAT vs STEL Order](https://softwaredeoficios.es/comparativa/appsat-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/appsat-vs-stel/))
-- **[ToolTime vs STEL Order](https://softwaredeoficios.es/comparativa/tooltime-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/tooltime-vs-stel/))
-- **[Praxedo vs STEL Order](https://softwaredeoficios.es/comparativa/praxedo-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/praxedo-vs-stel/))
+- **[Avantium vs Trowel](https://softwaredeoficios.es/comparativa/avantium-vs-trowel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-trowel/))
+- **[Avantium vs Fixner](https://softwaredeoficios.es/comparativa/avantium-vs-fixner/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-fixner/))
+- **[Fixner vs STEL Order](https://softwaredeoficios.es/comparativa/fixner-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/fixner-vs-stel/))
 
 ---
 
