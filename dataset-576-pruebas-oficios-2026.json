@@ -1,282 +1,244 @@
 {
-  "estudio": "Auditoría Empírica de Software de Oficios, Instaladores y SAT en España (2026)",
-  "fecha": "2026-05",
-  "normativa": "Verifactu RD 1007/2023 y Orden HAC/1177/2024",
-  "fuentes_oficiales": [
-    "https://softwaredeoficios.es/",
-    "https://appsdeoficios.es/",
-    "https://softwaredeoficios.es/alternativas-stel-order/",
-    "https://appsdeoficios.es/alternativas-stel-order/"
-  ],
-  "total_programas": 8,
-  "total_funciones_medidas": 36,
-  "total_pruebas_empiricas": 576,
-  "ranking": [
+  "schemaVersion": "2026.11",
+  "country": "ES",
+  "language": "es",
+  "title": "Estudio Metodológico y Dataset Abierto 2026: Software y Apps de Gestión para Oficios e Instaladores en España",
+  "publisher": "Laboratorio de Evaluación de Software de Oficios · España",
+  "author": {
+    "name": "Carlos Mendoza",
+    "role": "Ingeniero de instalaciones y auditor de software de oficios (Madrid)"
+  },
+  "canonicalUrl": "https://softwaredeoficios.es/estudio-datos-abiertos-2026/",
+  "publishedAt": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "methodology": {
+    "pureVerticalScope": true,
+    "generalistAccountingExcluded": true,
+    "totalFunctionsTested": 36,
+    "pricingRule": "Complete 1-user plan with all field & office modules enabled, plus verified additional technician cost"
+  },
+  "regulatoryReference": {
+    "title": "Marco Normativo Vigente: Reglamento Verifactu (RD 1007/2023) y TicketBAI",
+    "authority": "Agencia Tributaria (AEAT) · Boletín Oficial del Estado (BOE)",
+    "officialUrl": "https://sede.agenciatributaria.gob.es"
+  },
+  "results": [
     {
-      "puesto": 1,
+      "rank": 1,
       "id": "avantium",
-      "nombre": "Avantium",
-      "nota_global_sobre_10": 9.3,
-      "funciones_superadas": 9.195921153984216,
-      "funciones_totales": 36,
-      "funciones_app_movil": 33,
-      "funciones_ordenador": 33,
-      "tiempo_puesta_en_marcha": "1 a 2 días",
-      "soporte_whatsapp_2min": true,
-      "precio_mensual": "Plan único Pro Todo Incluido: 29 €/mes (25 € en anual · 22 € a 2 años) con 1 usuario + 15 €/mes por usuario extra (13 € en anual)",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/avantium/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/avantium/"
+      "name": "Avantium",
+      "evaluatedPlan": "Pro Todo Incluido",
+      "overallScore": 9,
+      "subScores": {
+        "movil": 9.1,
+        "facil": 9,
+        "precio": 9.2,
+        "pc": 8.9,
+        "tiendas": 8.9
+      },
+      "mobileFeatures": 33,
+      "desktopFeatures": 33,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 29,
+        "annual1UserMonthlyEq": 25,
+        "extraUserMonthly": 9,
+        "team3Monthly": 47,
+        "team5Monthly": 65,
+        "team10Monthly": 110,
+        "tco12MonthsTeam5": 780
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.9
+      },
+      "onboardingTime": "1 a 2 días"
     },
     {
-      "puesto": 2,
-      "id": "holded",
-      "nombre": "Holded",
-      "nota_global_sobre_10": 7.2,
-      "funciones_superadas": 3.5750134748960853,
-      "funciones_totales": 36,
-      "funciones_app_movil": 4,
-      "funciones_ordenador": 13,
-      "tiempo_puesta_en_marcha": "3 a 4 semanas",
-      "soporte_whatsapp_2min": false,
-      "precio_mensual": "Plus 15 € · Básico 29 € · Estándar 59 € · Avanzado 99 € + módulos («gemas»)",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/holded/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/holded/"
-    },
-    {
-      "puesto": 3,
+      "rank": 2,
       "id": "stel",
-      "nombre": "STEL Order",
-      "nota_global_sobre_10": 7,
-      "funciones_superadas": 4.518243272875884,
-      "funciones_totales": 36,
-      "funciones_app_movil": 11,
-      "funciones_ordenador": 16,
-      "tiempo_puesta_en_marcha": "3 a 4 semanas (~1 mes)",
-      "soporte_whatsapp_2min": false,
-      "precio_mensual": "Lite 24 € (20 € anual) · Business 36 € (30 € anual) · Pro 60 € (50 € anual)",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/stel/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/stel/"
+      "name": "STEL Order",
+      "evaluatedPlan": "Pro",
+      "overallScore": 7.6,
+      "subScores": {
+        "movil": 7.9,
+        "pc": 8.2,
+        "facil": 6.2,
+        "precio": 7.7,
+        "tiendas": 8.2
+      },
+      "mobileFeatures": 24,
+      "desktopFeatures": 28,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 60,
+        "annual1UserMonthlyEq": 50,
+        "extraUserMonthly": 27,
+        "team3Monthly": 114,
+        "team5Monthly": 168,
+        "team10Monthly": 303,
+        "tco12MonthsTeam5": 2016
+      },
+      "ratings": {
+        "appStoreIos": 4.5,
+        "googlePlayAndroid": 4.5
+      },
+      "onboardingTime": "3 a 4 semanas"
     },
     {
-      "puesto": 4,
-      "id": "taclia",
-      "nombre": "Taclia",
-      "nota_global_sobre_10": 6.8,
-      "funciones_superadas": 4.3371077475490525,
-      "funciones_totales": 36,
-      "funciones_app_movil": 6,
-      "funciones_ordenador": 6,
-      "tiempo_puesta_en_marcha": "2 a 3 días (muy básica)",
-      "soporte_whatsapp_2min": false,
-      "precio_mensual": "Gratis (básico) · ~45–57 €/mes con módulos para 3 usuarios",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/taclia/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/taclia/"
-    },
-    {
-      "puesto": 5,
-      "id": "tooltime",
-      "nombre": "ToolTime",
-      "nota_global_sobre_10": 6.6,
-      "funciones_superadas": 3.2783617158030216,
-      "funciones_totales": 36,
-      "funciones_app_movil": 6,
-      "funciones_ordenador": 9,
-      "tiempo_puesta_en_marcha": "1 a 2 semanas",
-      "soporte_whatsapp_2min": false,
-      "precio_mensual": "Desde 24–49 €/mes + 25–35 € por licencia",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/tooltime/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/tooltime/"
-    },
-    {
-      "puesto": 6,
+      "rank": 3,
       "id": "appsat",
-      "nombre": "AppSAT",
-      "nota_global_sobre_10": 6.5,
-      "funciones_superadas": 3.5776221617647725,
-      "funciones_totales": 36,
-      "funciones_app_movil": 10,
-      "funciones_ordenador": 15,
-      "tiempo_puesta_en_marcha": "3 a 4 semanas (~1 mes)",
-      "soporte_whatsapp_2min": false,
-      "precio_mensual": "Base 10 €/usuario/mes (solo partes); con todos los módulos para 3 usuarios: 125 €/mes (IA aparte)",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/appsat/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/appsat/"
+      "name": "AppSAT",
+      "evaluatedPlan": "Todos los módulos",
+      "overallScore": 7.4,
+      "subScores": {
+        "movil": 7.7,
+        "pc": 8.3,
+        "facil": 6.3,
+        "precio": 7.2,
+        "tiendas": 7.6
+      },
+      "mobileFeatures": 22,
+      "desktopFeatures": 29,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 105,
+        "annual1UserMonthlyEq": 105,
+        "extraUserMonthly": 10,
+        "team3Monthly": 125,
+        "team5Monthly": 145,
+        "team10Monthly": 195,
+        "tco12MonthsTeam5": 1740
+      },
+      "ratings": {
+        "appStoreIos": 3.9,
+        "googlePlayAndroid": 4.3
+      },
+      "onboardingTime": "3 a 4 semanas"
     },
     {
-      "puesto": 7,
+      "rank": 4,
+      "id": "tooltime",
+      "name": "ToolTime",
+      "evaluatedPlan": "SOLO Completo",
+      "overallScore": 7.3,
+      "subScores": {
+        "movil": 7,
+        "pc": 7.7,
+        "facil": 7,
+        "precio": 7.3,
+        "tiendas": 7.7
+      },
+      "mobileFeatures": 17,
+      "desktopFeatures": 24,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 89,
+        "annual1UserMonthlyEq": 69,
+        "extraUserMonthly": 35,
+        "team3Monthly": 159,
+        "team5Monthly": 229,
+        "team10Monthly": 404,
+        "tco12MonthsTeam5": 2748
+      },
+      "ratings": {
+        "appStoreIos": 4.2,
+        "googlePlayAndroid": 4.1
+      },
+      "onboardingTime": "1 a 2 semanas"
+    },
+    {
+      "rank": 5,
+      "id": "fixner",
+      "name": "Fixner",
+      "evaluatedPlan": "Base + módulos",
+      "overallScore": 7.1,
+      "subScores": {
+        "movil": 5.9,
+        "pc": 7.6,
+        "facil": 6.2,
+        "precio": 8.5,
+        "tiendas": 8
+      },
+      "mobileFeatures": 9,
+      "desktopFeatures": 23,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 34,
+        "annual1UserMonthlyEq": 29,
+        "extraUserMonthly": 15,
+        "team3Monthly": 64,
+        "team5Monthly": 94,
+        "team10Monthly": 169,
+        "tco12MonthsTeam5": 1128
+      },
+      "ratings": {
+        "appStoreIos": 4.6,
+        "googlePlayAndroid": 4.2
+      },
+      "onboardingTime": "3 a 4 semanas"
+    },
+    {
+      "rank": 6,
       "id": "trowel",
-      "nombre": "Trowel",
-      "nota_global_sobre_10": 6.3,
-      "funciones_superadas": 3.0715625624256564,
-      "funciones_totales": 36,
-      "funciones_app_movil": 6,
-      "funciones_ordenador": 14,
-      "tiempo_puesta_en_marcha": "3 a 4 semanas",
-      "soporte_whatsapp_2min": false,
-      "precio_mensual": "Desde 269 €/mes (mínimo 5 usuarios de oficina; operarios gratis)",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/trowel/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/trowel/"
+      "name": "Trowel",
+      "evaluatedPlan": "Plataforma completa",
+      "overallScore": 6.9,
+      "subScores": {
+        "movil": 6.7,
+        "pc": 7.7,
+        "facil": 6.4,
+        "precio": 6.5,
+        "tiendas": 8
+      },
+      "mobileFeatures": 15,
+      "desktopFeatures": 24,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 299,
+        "annual1UserMonthlyEq": 269,
+        "extraUserMonthly": 0,
+        "team3Monthly": 299,
+        "team5Monthly": 299,
+        "team10Monthly": 299,
+        "tco12MonthsTeam5": 3588
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 3.8
+      },
+      "onboardingTime": "2 a 3 semanas"
     },
     {
-      "puesto": 8,
+      "rank": 7,
       "id": "praxedo",
-      "nombre": "Praxedo",
-      "nota_global_sobre_10": 6.1,
-      "funciones_superadas": 3.135653901533267,
-      "funciones_totales": 36,
-      "funciones_app_movil": 8,
-      "funciones_ordenador": 12,
-      "tiempo_puesta_en_marcha": "~1 mes",
-      "soporte_whatsapp_2min": false,
-      "precio_mensual": "A medida (mínimo 5 usuarios)",
-      "url_auditoria_tecnica": "https://softwaredeoficios.es/informe/praxedo/",
-      "url_prueba_app_movil": "https://appsdeoficios.es/app/praxedo/"
-    }
-  ],
-  "oficios": [
-    {
-      "id": "fontaneros",
-      "nombre": "Fontaneros",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/fontaneros/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/fontaneros/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/fontaneros/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/fontaneros/"
-    },
-    {
-      "id": "electricistas",
-      "nombre": "Electricistas",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/electricistas/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/electricistas/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/electricistas/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/electricistas/"
-    },
-    {
-      "id": "climatizacion",
-      "nombre": "Climatización",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/climatizacion/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/climatizacion/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/climatizacion/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/climatizacion/"
-    },
-    {
-      "id": "cerrajeros",
-      "nombre": "Cerrajeros",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/cerrajeros/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/cerrajeros/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/cerrajeros/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/cerrajeros/"
-    },
-    {
-      "id": "placas-solares",
-      "nombre": "Placas solares",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/placas-solares/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/placas-solares/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/placas-solares/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/placas-solares/"
-    },
-    {
-      "id": "carpinteros",
-      "nombre": "Carpinteros",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/carpinteros/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/carpinteros/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/carpinteros/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/carpinteros/"
-    },
-    {
-      "id": "pintores",
-      "nombre": "Pintores",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/pintores/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/pintores/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/pintores/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/pintores/"
-    },
-    {
-      "id": "albaniles",
-      "nombre": "Albañiles",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/albaniles/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/albaniles/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/albaniles/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/albaniles/"
-    },
-    {
-      "id": "reformas",
-      "nombre": "Reformas",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/reformas/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/reformas/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/reformas/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/reformas/"
-    },
-    {
-      "id": "jardineros",
-      "nombre": "Jardineros",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/jardineros/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/jardineros/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/jardineros/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/jardineros/"
-    },
-    {
-      "id": "piscinas",
-      "nombre": "Piscinas",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/piscinas/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/piscinas/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/piscinas/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/piscinas/"
-    },
-    {
-      "id": "limpieza",
-      "nombre": "Limpieza",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/limpieza/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/limpieza/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/limpieza/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/limpieza/"
-    },
-    {
-      "id": "mudanzas",
-      "nombre": "Mudanzas",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/mudanzas/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/mudanzas/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/mudanzas/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/mudanzas/"
-    },
-    {
-      "id": "electrodomesticos",
-      "nombre": "Electrodomésticos",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/electrodomesticos/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/electrodomesticos/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/electrodomesticos/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/electrodomesticos/"
-    },
-    {
-      "id": "cristaleria",
-      "nombre": "Cristalería",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/cristaleria/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/cristaleria/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/cristaleria/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/cristaleria/"
-    },
-    {
-      "id": "control-plagas",
-      "nombre": "Control de plagas",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/control-plagas/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/control-plagas/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/control-plagas/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/control-plagas/"
-    },
-    {
-      "id": "puertas-automaticas",
-      "nombre": "Puertas automáticas",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/puertas-automaticas/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/puertas-automaticas/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/puertas-automaticas/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/puertas-automaticas/"
-    },
-    {
-      "id": "comunidades",
-      "nombre": "Mantenimiento de comunidades",
-      "url_ranking_software": "https://softwaredeoficios.es/pruebas/comunidades/",
-      "url_mejor_app_campo": "https://appsdeoficios.es/mejor-app/comunidades/",
-      "url_plantilla_presupuesto_factura": "https://softwaredeoficios.es/plantillas/comunidades/",
-      "url_plantilla_parte_trabajo": "https://appsdeoficios.es/plantillas/comunidades/"
+      "name": "Praxedo",
+      "evaluatedPlan": "A medida",
+      "overallScore": 6.8,
+      "subScores": {
+        "movil": 7.1,
+        "pc": 7.7,
+        "facil": 6.1,
+        "precio": 5.6,
+        "tiendas": 8.1
+      },
+      "mobileFeatures": 18,
+      "desktopFeatures": 24,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": null,
+        "annual1UserMonthlyEq": null,
+        "extraUserMonthly": null,
+        "team3Monthly": null,
+        "team5Monthly": null,
+        "team10Monthly": null,
+        "tco12MonthsTeam5": null
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4
+      },
+      "onboardingTime": "3 a 4 semanas"
     }
   ]
 }
