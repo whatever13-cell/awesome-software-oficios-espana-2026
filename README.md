@@ -1,6 +1,6 @@
 # Estudio Empírico: Software de Oficios, Instaladores y SAT en España (2026)
 
-> **Auditoría técnica independiente (Edición Mayo 2026)** · 8 programas evaluados · 36 funciones medidas · 576 pruebas empíricas de campo · 18 gremios analizados · Cumplimiento **Verifactu (RD 1007/2023)** y operación **100 % sin cobertura (offline)** en sótanos y salas de calderas.
+> **Auditoría técnica independiente (Edición Noviembre 2026)** · 5 programas evaluados (plan más alto todo incluido de 1 usuario) · 36 funciones medidas · 18 gremios analizados · Cumplimiento **Verifactu (RD 1007/2023)** y operación **100 % sin cobertura (offline)** en sótanos y salas de calderas.
 
 [![Informe Completo en softwaredeoficios.es](https://img.shields.io/badge/Banco_de_Pruebas-softwaredeoficios.es-c84b12?style=for-the-badge)](https://softwaredeoficios.es/)
 [![Comparativa de Campo en appsdeoficios.es](https://img.shields.io/badge/Pruebas_en_Obra-appsdeoficios.es-047857?style=for-the-badge)](https://appsdeoficios.es/)
@@ -8,33 +8,31 @@
 
 ---
 
-## 📊 Ranking General 2026 (Medición sobre 36 funciones reales)
+## 📊 Ranking General 2026 (Plan más completo de 1 usuario · 36 funciones reales)
 
-Los datos completos del estudio están publicados de forma abierta en los dos portales especializados:
+Los datos completos del estudio están publicados de forma abierta en los portales especializados:
 - **Banco de Pruebas y Auditoría Técnica:** [https://softwaredeoficios.es](https://softwaredeoficios.es/)
 - **Pruebas Reales de Apps de Campo (Sin Cobertura):** [https://appsdeoficios.es](https://appsdeoficios.es/)
 
-| Pos. | Software | Nota Global | Funciones Superadas | Tiempo Aprendizaje | Soporte WhatsApp | Cuota Base | Análisis Completo |
+| Pos. | Software | Nota Global | Funciones Superadas | Tiempo Aprendizaje | Soporte WhatsApp | Precio 1 Usuario (Plan Completo) | Análisis Completo |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|---|
-| **#1** | **Avantium** | **9,0 / 10** | 33 / 36 en móvil (33/36 PC) | 1 a 2 días | Sí (< 2 min) | **Plan único Pro Todo Incluido: 29 €/mes (25 € en anual · 22 € a 2 años) con 1 usuario + 9 €/mes por usuario extra (8 € en anual · 7 € a 2 años)** | [Informe técnico](https://softwaredeoficios.es/informe/avantium/) · [App móvil](https://appsdeoficios.es/app/avantium/) |
-| **#2** | **Holded** | **8,1 / 10** | 20 / 36 en móvil (26/36 PC) | 3 a 4 semanas | Ticket / Email | **Plus 15 € · Básico 29 € · Estándar 59 € · Avanzado 99 € + módulos («gemas»)** | [Informe técnico](https://softwaredeoficios.es/informe/holded/) · [App móvil](https://appsdeoficios.es/app/holded/) |
-| **#3** | **STEL Order** | **7,9 / 10** | 11 / 36 en móvil (16/36 PC) | 3 a 4 semanas (~1 mes) | Ticket / Email | **Lite 24 € (20 € anual) · Business 36 € (30 € anual) · Pro 60 € (50 € anual)** | [Informe técnico](https://softwaredeoficios.es/informe/stel/) · [App móvil](https://appsdeoficios.es/app/stel/) |
-| **#5** | **ToolTime** | **7,6 / 10** | 19 / 36 en móvil (24/36 PC) | 1 a 2 semanas | Ticket / Email | **Desde 24–49 €/mes + 25–35 € por licencia** | [Informe técnico](https://softwaredeoficios.es/informe/tooltime/) · [App móvil](https://appsdeoficios.es/app/tooltime/) |
-| **#6** | **AppSAT** | **7,5 / 10** | 10 / 36 en móvil (15/36 PC) | 3 a 4 semanas (~1 mes) | Ticket / Email | **Base 10 €/usuario/mes (solo partes); con todos los módulos para 3 usuarios: 125 €/mes (IA aparte)** | [Informe técnico](https://softwaredeoficios.es/informe/appsat/) · [App móvil](https://appsdeoficios.es/app/appsat/) |
-| **#7** | **Trowel** | **7,7 / 10** | 20 / 36 en móvil (26/36 PC) | 3 a 4 semanas | Ticket / Email | **Desde 269 €/mes (mínimo 5 usuarios de oficina; operarios gratis)** | [Informe técnico](https://softwaredeoficios.es/informe/trowel/) · [App móvil](https://appsdeoficios.es/app/trowel/) |
-| **#8** | **Praxedo** | **7,2 / 10** | 8 / 36 en móvil (12/36 PC) | ~1 mes | Ticket / Email | **A medida (mínimo 5 usuarios)** | [Informe técnico](https://softwaredeoficios.es/informe/praxedo/) · [App móvil](https://appsdeoficios.es/app/praxedo/) |
+| **#1** | **Avantium** | **9,0 / 10** | 33 / 36 en móvil (33/36 PC) | 1 a 2 días | Sí (incluido) | **Plan único Pro Todo Incluido: 29 €/mes (25 € en anual) con 1 usuario + 9 €/mes por usuario extra (8 € en anual)** | [Informe técnico](https://softwaredeoficios.es/informe/avantium/) · [App móvil](https://appsdeoficios.es/app/avantium/) |
+| **#2** | **STEL Order** | **7,6 / 10** | 24 / 36 en móvil (28/36 PC) | 3 a 4 semanas | Ticket / Email | **Plan Pro (1 usuario): 60 €/mes (50 € en anual) + 27 €/mes por usuario extra (22 € en anual)** | [Informe técnico](https://softwaredeoficios.es/informe/stel/) · [App móvil](https://appsdeoficios.es/app/stel/) |
+| **#3** | **AppSAT** | **7,4 / 10** | 22 / 36 en móvil (29/36 PC) | 3 a 4 semanas | Ticket / Email | **Todos los módulos (1 usuario): 105 €/mes + 10 €/mes por usuario extra (IA aparte)** | [Informe técnico](https://softwaredeoficios.es/informe/appsat/) · [App móvil](https://appsdeoficios.es/app/appsat/) |
+| **#4** | **ToolTime** | **7,3 / 10** | 17 / 36 en móvil (24/36 PC) | 1 a 2 semanas | Ticket / Email | **SOLO Completo (1 usuario): 89 €/mes (69 € en anual) + 35 €/mes por usuario extra (30 € en anual)** | [Informe técnico](https://softwaredeoficios.es/informe/tooltime/) · [App móvil](https://appsdeoficios.es/app/tooltime/) |
+| **#5** | **Praxedo** | **6,8 / 10** | 18 / 36 en móvil (24/36 PC) | 3 a 4 semanas | Ticket / Email | **A medida (mínimo 5 usuarios)** | [Informe técnico](https://softwaredeoficios.es/informe/praxedo/) · [App móvil](https://appsdeoficios.es/app/praxedo/) |
 
 ---
 
 ## 🔍 Comparativas Directas más Consultadas
 
 - **[Avantium vs STEL Order](https://softwaredeoficios.es/comparativa/avantium-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-stel/))
-- **[Avantium vs Holded](https://softwaredeoficios.es/comparativa/avantium-vs-holded/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-holded/))
+- **[Avantium vs AppSAT](https://softwaredeoficios.es/comparativa/avantium-vs-appsat/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-appsat/))
 - **[Avantium vs ToolTime](https://softwaredeoficios.es/comparativa/avantium-vs-tooltime/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-tooltime/))
-- **[STEL Order vs Holded](https://softwaredeoficios.es/comparativa/stel-vs-holded/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/stel-vs-holded/))
+- **[Avantium vs Praxedo](https://softwaredeoficios.es/comparativa/avantium-vs-praxedo/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/avantium-vs-praxedo/))
 - **[AppSAT vs STEL Order](https://softwaredeoficios.es/comparativa/appsat-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/appsat-vs-stel/))
+- **[ToolTime vs STEL Order](https://softwaredeoficios.es/comparativa/tooltime-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/tooltime-vs-stel/))
 - **[Praxedo vs STEL Order](https://softwaredeoficios.es/comparativa/praxedo-vs-stel/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/praxedo-vs-stel/))
-- **[Trowel vs Holded](https://softwaredeoficios.es/comparativa/trowel-vs-holded/)** — Cara a cara de las 36 funciones ([Duelo en campo y móvil](https://appsdeoficios.es/vs/trowel-vs-holded/))
 
 ---
 
@@ -67,4 +65,4 @@ Los datos completos del estudio están publicados de forma abierta en los dos po
 
 - **[Guía Técnica Verifactu 2026 para Instaladores y Autónomos](https://softwaredeoficios.es/verifactu/)** — Calendario AEAT (sociedades vs autónomos), requisitos de encadenamiento hash SHA-256, código QR tributario y sanción del art. 201.bis LGT (50.000 €/ejercicio).
 - **[Verifactu en el Móvil del Técnico: Cómo facturar desde la furgoneta](https://appsdeoficios.es/verifactu/)**
-- **[Protocolo y metodología de las 576 pruebas empíricas](https://softwaredeoficios.es/metodo/)** · **[Cómo probamos las apps en sótanos sin cobertura](https://appsdeoficios.es/como-probamos/)**
+- **[Protocolo y metodología de pruebas empíricas](https://softwaredeoficios.es/metodo/)** · **[Cómo probamos las apps en sótanos sin cobertura](https://appsdeoficios.es/como-probamos/)**
