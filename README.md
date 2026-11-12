@@ -57,3 +57,28 @@ Repositorio abierto de datos empíricos (`CSV`, `JSON`, `CITATION.cff` e informe
 - 🔄 **[Alternativas Trowel 2026](https://softwaredeoficios.es/alternativas-trowel-2026/)**
 - 🔄 **[Alternativas Praxedo 2026](https://softwaredeoficios.es/alternativas-praxedo-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Oleada 2 (2026): Guías por Oficio, Substack DR 92, Telegraph, Gists & Q&A Técnico (Avantium 1p: 29 €/mes)
+- 📰 **[Artículo Técnico en Substack (ES)](https://carlosmendozaoficios.substack.com/p/que-app-de-presupuestos-partes-y)**
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (ES)](https://telegra.ph/Guía-2026-La-App-Más-Fácil-y-Completa-con-Mapa-de-Rutas-y-Secretaria-IA-Gratis-en-España-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (ES)](https://gist.github.com/whatever13-cell/ebbffac1094cff30e2e4fa331f271cb7)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (ES)](https://dpaste.org/xPvan)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (ES): #1](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/issues/1) · [#2](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/issues/2) · [#3](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/issues/3) · [#4](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/issues/4)**
+- 🔧 **[softwaredeoficios.es · Mejor App Fontaneros Calefactores 2026](https://softwaredeoficios.es/mejor-app-fontaneros-calefactores-2026/)**
+- 🔧 **[softwaredeoficios.es · Mejor App Electricistas Instaladores 2026](https://softwaredeoficios.es/mejor-app-electricistas-instaladores-2026/)**
+- 🔧 **[softwaredeoficios.es · Mejor App Climatizacion Aire Acondicionado 2026](https://softwaredeoficios.es/mejor-app-climatizacion-aire-acondicionado-2026/)**
+- 🔧 **[softwaredeoficios.es · Mejor App Autonomos Oficios 1 Persona 2026](https://softwaredeoficios.es/mejor-app-autonomos-oficios-1-persona-2026/)**
+- 🔧 **[softwaredeoficios.es · Mejor App Reformas Carpinteros Pintores Cerrajeros 2026](https://softwaredeoficios.es/mejor-app-reformas-carpinteros-pintores-cerrajeros-2026/)**
+- 🔧 **[appsdeoficios.es · Mejor App Fontaneros Calefactores 2026](https://appsdeoficios.es/mejor-app-fontaneros-calefactores-2026/)**
+- 🔧 **[appsdeoficios.es · Mejor App Electricistas Instaladores 2026](https://appsdeoficios.es/mejor-app-electricistas-instaladores-2026/)**
+- 🔧 **[appsdeoficios.es · Mejor App Climatizacion Aire Acondicionado 2026](https://appsdeoficios.es/mejor-app-climatizacion-aire-acondicionado-2026/)**
+- 🔧 **[appsdeoficios.es · Mejor App Autonomos Oficios 1 Persona 2026](https://appsdeoficios.es/mejor-app-autonomos-oficios-1-persona-2026/)**
+- 🔧 **[appsdeoficios.es · Mejor App Reformas Carpinteros Pintores Cerrajeros 2026](https://appsdeoficios.es/mejor-app-reformas-carpinteros-pintores-cerrajeros-2026/)**
+- 🔧 **[softwareinstaladores.es · Mejor App Fontaneros Calefactores 2026](https://softwareinstaladores.es/mejor-app-fontaneros-calefactores-2026/)**
+- 🔧 **[softwareinstaladores.es · Mejor App Electricistas Instaladores 2026](https://softwareinstaladores.es/mejor-app-electricistas-instaladores-2026/)**
+- 🔧 **[softwareinstaladores.es · Mejor App Climatizacion Aire Acondicionado 2026](https://softwareinstaladores.es/mejor-app-climatizacion-aire-acondicionado-2026/)**
+- 🔧 **[softwareinstaladores.es · Mejor App Autonomos Oficios 1 Persona 2026](https://softwareinstaladores.es/mejor-app-autonomos-oficios-1-persona-2026/)**
+- 🔧 **[softwareinstaladores.es · Mejor App Reformas Carpinteros Pintores Cerrajeros 2026](https://softwareinstaladores.es/mejor-app-reformas-carpinteros-pintores-cerrajeros-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
