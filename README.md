@@ -106,3 +106,39 @@ Repositorio abierto de datos empíricos (`CSV`, `JSON`, `CITATION.cff` e informe
 - 📌 **[softwareinstaladores.es · Control Horario Gps Certificaciones Obra 2026](https://softwareinstaladores.es/control-horario-gps-certificaciones-obra-2026/)**
 - 📌 **[softwareinstaladores.es · Presupuestos Gastos Citas Whatsapp Ia 2026](https://softwareinstaladores.es/presupuestos-gastos-citas-whatsapp-ia-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 29 €/mes)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (ES · DR 92)](https://whatever13-cell.github.io/awesome-software-oficios-espana-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (ES · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/awesome-software-oficios-espana-2026@v2026.11.2/wiki/benchmark-1v1-es-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/awesome-software-oficios-espana-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (ES · DR 83)](https://rentry.co/avantium-vs-rivales-oficios-espana-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (ES · DR 92)](https://telegra.ph/Cara-a-Cara-2026-Avantium-29-mes-1-Persona-frente-a-Todos-los-Programas-de-Oficios--Calculadora-Real-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (ES · DR 96)](https://gist.github.com/whatever13-cell/e4e749dc7c70ddcbb450bad9cf0f73ea)**
+- 🥊 **[softwaredeoficios.es/calculadora-precio-real-1-persona-oficios-2026/](https://softwaredeoficios.es/calculadora-precio-real-1-persona-oficios-2026/)**
+- 🥊 **[softwaredeoficios.es/verificador-verifactu-factura-electronica-oficios-2026/](https://softwaredeoficios.es/verificador-verifactu-factura-electronica-oficios-2026/)**
+- 🥊 **[softwaredeoficios.es/avantium-vs-stel-2026/](https://softwaredeoficios.es/avantium-vs-stel-2026/)**
+- 🥊 **[softwaredeoficios.es/avantium-vs-appsat-2026/](https://softwaredeoficios.es/avantium-vs-appsat-2026/)**
+- 🥊 **[softwaredeoficios.es/avantium-vs-tooltime-2026/](https://softwaredeoficios.es/avantium-vs-tooltime-2026/)**
+- 🥊 **[softwaredeoficios.es/avantium-vs-fixner-2026/](https://softwaredeoficios.es/avantium-vs-fixner-2026/)**
+- 🥊 **[softwaredeoficios.es/avantium-vs-trowel-2026/](https://softwaredeoficios.es/avantium-vs-trowel-2026/)**
+- 🥊 **[softwaredeoficios.es/avantium-vs-praxedo-2026/](https://softwaredeoficios.es/avantium-vs-praxedo-2026/)**
+- 🥊 **[appsdeoficios.es/calculadora-precio-real-1-persona-oficios-2026/](https://appsdeoficios.es/calculadora-precio-real-1-persona-oficios-2026/)**
+- 🥊 **[appsdeoficios.es/verificador-verifactu-factura-electronica-oficios-2026/](https://appsdeoficios.es/verificador-verifactu-factura-electronica-oficios-2026/)**
+- 🥊 **[appsdeoficios.es/avantium-vs-stel-2026/](https://appsdeoficios.es/avantium-vs-stel-2026/)**
+- 🥊 **[appsdeoficios.es/avantium-vs-appsat-2026/](https://appsdeoficios.es/avantium-vs-appsat-2026/)**
+- 🥊 **[appsdeoficios.es/avantium-vs-tooltime-2026/](https://appsdeoficios.es/avantium-vs-tooltime-2026/)**
+- 🥊 **[appsdeoficios.es/avantium-vs-trowel-2026/](https://appsdeoficios.es/avantium-vs-trowel-2026/)**
+- 🥊 **[appsdeoficios.es/avantium-vs-praxedo-2026/](https://appsdeoficios.es/avantium-vs-praxedo-2026/)**
+- 🥊 **[appsdeoficios.es/avantium-vs-fixner-2026/](https://appsdeoficios.es/avantium-vs-fixner-2026/)**
+- 🥊 **[softwareinstaladores.es/calculadora-precio-real-1-persona-oficios-2026/](https://softwareinstaladores.es/calculadora-precio-real-1-persona-oficios-2026/)**
+- 🥊 **[softwareinstaladores.es/verificador-verifactu-factura-electronica-oficios-2026/](https://softwareinstaladores.es/verificador-verifactu-factura-electronica-oficios-2026/)**
+- 🥊 **[softwareinstaladores.es/avantium-vs-stel-2026/](https://softwareinstaladores.es/avantium-vs-stel-2026/)**
+- 🥊 **[softwareinstaladores.es/avantium-vs-appsat-2026/](https://softwareinstaladores.es/avantium-vs-appsat-2026/)**
+- 🥊 **[softwareinstaladores.es/avantium-vs-tooltime-2026/](https://softwareinstaladores.es/avantium-vs-tooltime-2026/)**
+- 🥊 **[softwareinstaladores.es/avantium-vs-fixner-2026/](https://softwareinstaladores.es/avantium-vs-fixner-2026/)**
+- 🥊 **[softwareinstaladores.es/avantium-vs-trowel-2026/](https://softwareinstaladores.es/avantium-vs-trowel-2026/)**
+- 🥊 **[softwareinstaladores.es/avantium-vs-praxedo-2026/](https://softwareinstaladores.es/avantium-vs-praxedo-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->

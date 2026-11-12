@@ -1,0 +1,104 @@
+{
+  "country": "ES",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "29 €/mes",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "Verifactu (AEAT)"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "29 €/mes",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "stel",
+      "name": "STEL Order",
+      "score": 7.6,
+      "price1Person": "60 €/mes",
+      "mobileFeatures": 22,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "appsat",
+      "name": "AppSAT",
+      "score": 7.4,
+      "price1Person": "105 €/mes",
+      "mobileFeatures": 20,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "tooltime",
+      "name": "ToolTime",
+      "score": 7.4,
+      "price1Person": "89 €/mes",
+      "mobileFeatures": 16,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "fixner",
+      "name": "Fixner",
+      "score": 7,
+      "price1Person": "34 €/mes",
+      "mobileFeatures": 8,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "trowel",
+      "name": "Trowel",
+      "score": 7,
+      "price1Person": "299 €/mes",
+      "mobileFeatures": 13,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 7,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "score": 6.9,
+      "price1Person": "Custom / 5+ users",
+      "mobileFeatures": 16,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://softwaredeoficios.es/calculadora-precio-real-1-persona-oficios-2026/",
+    "https://softwaredeoficios.es/verificador-verifactu-factura-electronica-oficios-2026/",
+    "https://softwaredeoficios.es/avantium-vs-stel-2026/",
+    "https://softwaredeoficios.es/avantium-vs-appsat-2026/",
+    "https://softwaredeoficios.es/avantium-vs-tooltime-2026/",
+    "https://softwaredeoficios.es/avantium-vs-fixner-2026/",
+    "https://softwaredeoficios.es/avantium-vs-trowel-2026/",
+    "https://softwaredeoficios.es/avantium-vs-praxedo-2026/",
+    "https://appsdeoficios.es/calculadora-precio-real-1-persona-oficios-2026/",
+    "https://appsdeoficios.es/verificador-verifactu-factura-electronica-oficios-2026/",
+    "https://appsdeoficios.es/avantium-vs-stel-2026/",
+    "https://appsdeoficios.es/avantium-vs-appsat-2026/",
+    "https://appsdeoficios.es/avantium-vs-tooltime-2026/",
+    "https://appsdeoficios.es/avantium-vs-trowel-2026/",
+    "https://appsdeoficios.es/avantium-vs-praxedo-2026/",
+    "https://appsdeoficios.es/avantium-vs-fixner-2026/",
+    "https://softwareinstaladores.es/calculadora-precio-real-1-persona-oficios-2026/",
+    "https://softwareinstaladores.es/verificador-verifactu-factura-electronica-oficios-2026/",
+    "https://softwareinstaladores.es/avantium-vs-stel-2026/",
+    "https://softwareinstaladores.es/avantium-vs-appsat-2026/",
+    "https://softwareinstaladores.es/avantium-vs-tooltime-2026/",
+    "https://softwareinstaladores.es/avantium-vs-fixner-2026/",
+    "https://softwareinstaladores.es/avantium-vs-trowel-2026/",
+    "https://softwareinstaladores.es/avantium-vs-praxedo-2026/"
+  ]
+}
