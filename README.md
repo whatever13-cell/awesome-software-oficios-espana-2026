@@ -38,3 +38,22 @@ Repositorio abierto de datos empíricos (`CSV`, `JSON`, `CITATION.cff` e informe
 - **Banco de pruebas general de software de oficios:** [softwaredeoficios.es](https://softwaredeoficios.es/) · [Estudio Abierto 2026](https://softwaredeoficios.es/estudio-datos-abiertos-2026/)
 - **Comparador para instaladores y mantenedores:** [softwareinstaladores.es](https://softwareinstaladores.es/)
 - **Laboratorio de apps móviles de campo:** [appsdeoficios.es](https://appsdeoficios.es/)
+
+<!-- PILARES-ALT-2026-START -->
+---
+## 🧭 Guías Temáticas 2026, Alternativas por Competidor y Espejos Técnicos (Avantium 1p: 29 €/mes)
+- 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/releases/tag/v2026.11)**
+- 📘 **[Resumen Técnico en Rentry (ES)](https://rentry.co/software-oficios-espana-2026-datos)**
+- 📗 **[Nota Metodológica en HackMD (ES)](https://hackmd.io/xqubSaopQyqKO9e7CHoXEg)**
+- 🎓 **[DOI Científico CERN Zenodo (ES)](https://doi.org/10.5281/zenodo.24160876)**
+- ⭐ **[App Mas Facil Usar Oficios 2026](https://softwaredeoficios.es/app-mas-facil-usar-oficios-2026/)**
+- ⭐ **[App Mas Completa Funciones Oficios 2026](https://softwaredeoficios.es/app-mas-completa-funciones-oficios-2026/)**
+- ⭐ **[Mapa Trabajos Rutas Diarias Oficios 2026](https://softwaredeoficios.es/mapa-trabajos-rutas-diarias-oficios-2026/)**
+- ⭐ **[Secretaria Ia Gratis Whatsapp Oficios 2026](https://softwaredeoficios.es/secretaria-ia-gratis-whatsapp-oficios-2026/)**
+- 🔄 **[Alternativas Stel 2026](https://softwaredeoficios.es/alternativas-stel-2026/)**
+- 🔄 **[Alternativas Appsat 2026](https://softwaredeoficios.es/alternativas-appsat-2026/)**
+- 🔄 **[Alternativas Tooltime 2026](https://softwaredeoficios.es/alternativas-tooltime-2026/)**
+- 🔄 **[Alternativas Fixner 2026](https://softwaredeoficios.es/alternativas-fixner-2026/)**
+- 🔄 **[Alternativas Trowel 2026](https://softwaredeoficios.es/alternativas-trowel-2026/)**
+- 🔄 **[Alternativas Praxedo 2026](https://softwaredeoficios.es/alternativas-praxedo-2026/)**
+<!-- PILARES-ALT-2026-END -->
