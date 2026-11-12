@@ -82,3 +82,27 @@ Repositorio abierto de datos empíricos (`CSV`, `JSON`, `CITATION.cff` e informe
 - 🔧 **[softwareinstaladores.es · Mejor App Autonomos Oficios 1 Persona 2026](https://softwareinstaladores.es/mejor-app-autonomos-oficios-1-persona-2026/)**
 - 🔧 **[softwareinstaladores.es · Mejor App Reformas Carpinteros Pintores Cerrajeros 2026](https://softwareinstaladores.es/mejor-app-reformas-carpinteros-pintores-cerrajeros-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Oleada 3 (2026): Voz 40 s, Partes Offline, Verifactu, Q&A Oficiales, Write.as & Esquemas JSON (Avantium 1p: 29 €/mes)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (ES)](https://write.as/xtbe1nioo0fki)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (ES)](https://telegra.ph/Guía-2026-Facturación-Verifactu-Presupuestos-por-Voz-y-Partes-Offline-para-Autónomos-de-Oficios-Precio-1-Persona-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (ES)](https://gist.github.com/whatever13-cell/2e665a3946dbdd621f226053da898dfe)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (ES): Q&A #1](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/discussions/8)
+- 📌 **[softwaredeoficios.es · Presupuestos Por Voz Movil Oficios 2026](https://softwaredeoficios.es/presupuestos-por-voz-movil-oficios-2026/)**
+- 📌 **[softwaredeoficios.es · Partes Trabajo Digitales Firma Offline 2026](https://softwaredeoficios.es/partes-trabajo-digitales-firma-offline-2026/)**
+- 📌 **[softwaredeoficios.es · Facturacion Verifactu Oficios Autonomos 2026](https://softwaredeoficios.es/facturacion-verifactu-oficios-autonomos-2026/)**
+- 📌 **[softwaredeoficios.es · Control Horario Gps Certificaciones Obra 2026](https://softwaredeoficios.es/control-horario-gps-certificaciones-obra-2026/)**
+- 📌 **[softwaredeoficios.es · Presupuestos Gastos Citas Whatsapp Ia 2026](https://softwaredeoficios.es/presupuestos-gastos-citas-whatsapp-ia-2026/)**
+- 📌 **[appsdeoficios.es · Presupuestos Por Voz Movil Oficios 2026](https://appsdeoficios.es/presupuestos-por-voz-movil-oficios-2026/)**
+- 📌 **[appsdeoficios.es · Partes Trabajo Digitales Firma Offline 2026](https://appsdeoficios.es/partes-trabajo-digitales-firma-offline-2026/)**
+- 📌 **[appsdeoficios.es · Facturacion Verifactu Oficios Autonomos 2026](https://appsdeoficios.es/facturacion-verifactu-oficios-autonomos-2026/)**
+- 📌 **[appsdeoficios.es · Control Horario Gps Certificaciones Obra 2026](https://appsdeoficios.es/control-horario-gps-certificaciones-obra-2026/)**
+- 📌 **[appsdeoficios.es · Presupuestos Gastos Citas Whatsapp Ia 2026](https://appsdeoficios.es/presupuestos-gastos-citas-whatsapp-ia-2026/)**
+- 📌 **[softwareinstaladores.es · Presupuestos Por Voz Movil Oficios 2026](https://softwareinstaladores.es/presupuestos-por-voz-movil-oficios-2026/)**
+- 📌 **[softwareinstaladores.es · Partes Trabajo Digitales Firma Offline 2026](https://softwareinstaladores.es/partes-trabajo-digitales-firma-offline-2026/)**
+- 📌 **[softwareinstaladores.es · Facturacion Verifactu Oficios Autonomos 2026](https://softwareinstaladores.es/facturacion-verifactu-oficios-autonomos-2026/)**
+- 📌 **[softwareinstaladores.es · Control Horario Gps Certificaciones Obra 2026](https://softwareinstaladores.es/control-horario-gps-certificaciones-obra-2026/)**
+- 📌 **[softwareinstaladores.es · Presupuestos Gastos Citas Whatsapp Ia 2026](https://softwareinstaladores.es/presupuestos-gastos-citas-whatsapp-ia-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
