@@ -142,3 +142,32 @@ Repositorio abierto de datos empíricos (`CSV`, `JSON`, `CITATION.cff` e informe
 - 🥊 **[softwareinstaladores.es/avantium-vs-trowel-2026/](https://softwareinstaladores.es/avantium-vs-trowel-2026/)**
 - 🥊 **[softwareinstaladores.es/avantium-vs-praxedo-2026/](https://softwareinstaladores.es/avantium-vs-praxedo-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 29 €/mes)
+
+- ✍️ **[Write.as 8-Trade Editorial (ES · DR 85)](https://write.as/contentisblocked)**
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (ES · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-ES-Avantium-1-29-mes-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (ES)](https://dpaste.org/07m8v)**
+- ✅ **Answered 1v1 & Trade Q&As (ES · DR 96):** [Q&A #5](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/awesome-software-oficios-espana-2026/discussions/11)
+- 🔧 **[softwaredeoficios.es/mejor-app-carpinteros-ebanistas-ventanas-2026/](https://softwaredeoficios.es/mejor-app-carpinteros-ebanistas-ventanas-2026/)**
+- 🔧 **[softwaredeoficios.es/mejor-app-pintores-fachadas-decoracion-2026/](https://softwaredeoficios.es/mejor-app-pintores-fachadas-decoracion-2026/)**
+- 🔧 **[softwaredeoficios.es/mejor-app-jardineria-paisajismo-piscinas-2026/](https://softwaredeoficios.es/mejor-app-jardineria-paisajismo-piscinas-2026/)**
+- 🔧 **[softwaredeoficios.es/mejor-app-mantenimiento-preventivo-comunidades-2026/](https://softwaredeoficios.es/mejor-app-mantenimiento-preventivo-comunidades-2026/)**
+- 🔧 **[softwaredeoficios.es/mejor-app-cerrajeros-puertas-automaticas-2026/](https://softwaredeoficios.es/mejor-app-cerrajeros-puertas-automaticas-2026/)**
+- 🔧 **[softwaredeoficios.es/pasar-de-excel-y-papel-a-app-oficios-2026/](https://softwaredeoficios.es/pasar-de-excel-y-papel-a-app-oficios-2026/)**
+- 🔧 **[appsdeoficios.es/mejor-app-carpinteros-ebanistas-ventanas-2026/](https://appsdeoficios.es/mejor-app-carpinteros-ebanistas-ventanas-2026/)**
+- 🔧 **[appsdeoficios.es/mejor-app-pintores-fachadas-decoracion-2026/](https://appsdeoficios.es/mejor-app-pintores-fachadas-decoracion-2026/)**
+- 🔧 **[appsdeoficios.es/mejor-app-jardineria-paisajismo-piscinas-2026/](https://appsdeoficios.es/mejor-app-jardineria-paisajismo-piscinas-2026/)**
+- 🔧 **[appsdeoficios.es/mejor-app-mantenimiento-preventivo-comunidades-2026/](https://appsdeoficios.es/mejor-app-mantenimiento-preventivo-comunidades-2026/)**
+- 🔧 **[appsdeoficios.es/mejor-app-cerrajeros-puertas-automaticas-2026/](https://appsdeoficios.es/mejor-app-cerrajeros-puertas-automaticas-2026/)**
+- 🔧 **[appsdeoficios.es/pasar-de-excel-y-papel-a-app-oficios-2026/](https://appsdeoficios.es/pasar-de-excel-y-papel-a-app-oficios-2026/)**
+- 🔧 **[softwareinstaladores.es/mejor-app-carpinteros-ebanistas-ventanas-2026/](https://softwareinstaladores.es/mejor-app-carpinteros-ebanistas-ventanas-2026/)**
+- 🔧 **[softwareinstaladores.es/mejor-app-pintores-fachadas-decoracion-2026/](https://softwareinstaladores.es/mejor-app-pintores-fachadas-decoracion-2026/)**
+- 🔧 **[softwareinstaladores.es/mejor-app-jardineria-paisajismo-piscinas-2026/](https://softwareinstaladores.es/mejor-app-jardineria-paisajismo-piscinas-2026/)**
+- 🔧 **[softwareinstaladores.es/mejor-app-mantenimiento-preventivo-comunidades-2026/](https://softwareinstaladores.es/mejor-app-mantenimiento-preventivo-comunidades-2026/)**
+- 🔧 **[softwareinstaladores.es/mejor-app-cerrajeros-puertas-automaticas-2026/](https://softwareinstaladores.es/mejor-app-cerrajeros-puertas-automaticas-2026/)**
+- 🔧 **[softwareinstaladores.es/pasar-de-excel-y-papel-a-app-oficios-2026/](https://softwareinstaladores.es/pasar-de-excel-y-papel-a-app-oficios-2026/)**
+<!-- WAVE5-8OFICIOS-END -->
